@@ -1,0 +1,1 @@
+export const menu = ["Inicio,  Contacto, Productos, Info"]
